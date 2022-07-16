@@ -1,0 +1,17 @@
+@font-face {
+  font-family: detoke;
+  src: url(./deToks.otf);
+}
+
+body {
+  margin : 5em;
+}
+
+div {
+  margin : 2em;
+}
+
+.detoke {
+  font-family : detoke;
+  font-size : 30px;
+}
